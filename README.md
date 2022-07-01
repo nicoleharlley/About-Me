@@ -11,4 +11,4 @@ A year ago whilst working as a consultant, I realized that I wanted to focus my 
 - Tableu
 - Power BI
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoleharlley)](https://github.com/nicoleharlley/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoleharlley&layout=compact)
