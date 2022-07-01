@@ -1,8 +1,8 @@
-## About Me
+## Hi, I am Nicole (she/her)!
 
-Hi, I am Nicole (she/her)! A year ago whilst working as a consultant, I realized that I wanted to focus my efforts on adding value and building technology based solutions. 
+**About Me**
 
-Currently, I am building the necessary skills to bbring these solutions to life by working on interesting tech projects. Most of the projects I have worked on are focus on the financial sector which allows me to leverage my education and experience. Check out some of my projects!
+A year ago whilst working as a consultant, I realized that I wanted to focus my efforts on adding value and building technology based solutions. Currently, I am building the necessary skills to bbring these solutions to life by working on interesting tech projects. Most of the projects I have worked on are focus on the financial sector which allows me to leverage my education and experience. Check out some of my projects!
 
 **Languages and Tools** 
 - Python
@@ -11,5 +11,4 @@ Currently, I am building the necessary skills to bbring these solutions to life 
 - Tableu
 - Power BI
 
-**Interests** 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoleharlley)](https://github.com/nicoleharlley/github-readme-stats)
